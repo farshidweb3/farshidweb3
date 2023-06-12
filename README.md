@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @farshidweb3
+- 👀 I’m interested in web3 - developing smartcontracts like NFT - NFT marketplace - ERC20 Token and Dapp
+- 💞️ I’m looking to collaborate on blockchain developers
